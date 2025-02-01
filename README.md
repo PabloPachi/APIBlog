@@ -4,6 +4,8 @@ Prueba APIBlogs para Banco Bisa
 La solución implementada utiliza un conjunto de tecnologías y frameworks modernos que siguen las mejores prácticas de desarrollo de software. Spring Boot y Spring Data JPA proporcionaron una base sólida para construir el microservicio, mientras que Bean Validation y Lombok simplificaron la validación de datos y la reducción de código boilerplate. El manejo de excepciones globales y la serialización/deserialización con Jackson aseguraron una API RESTful robusta y fácil de usar. Finalmente, los principios SOLID guiaron el diseño del código para garantizar que sea mantenible, escalable y de alta calidad.
 
 # Tecnología y frameworks
+Java (openjdk 21.0.5), intellij IDEA 2024.3.2.2
+
 1. Spring Boot
 Descripción: Spring Boot es un framework de desarrollo basado en Spring que simplifica la creación de aplicaciones Java, especialmente microservicios.
 Proporcionó una configuración automática y un servidor embebido (Tomcat), lo que facilitó la puesta en marcha del proyecto.
